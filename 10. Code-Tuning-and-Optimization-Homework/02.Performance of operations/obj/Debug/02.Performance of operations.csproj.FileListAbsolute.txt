@@ -1,0 +1,6 @@
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\10. Code-Tuning-and-Optimization-Homework\02.Performance of operations\bin\Debug\02.Performance of operations.exe.config
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\10. Code-Tuning-and-Optimization-Homework\02.Performance of operations\bin\Debug\02.Performance of operations.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\10. Code-Tuning-and-Optimization-Homework\02.Performance of operations\bin\Debug\02.Performance of operations.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\10. Code-Tuning-and-Optimization-Homework\02.Performance of operations\obj\Debug\02.Performance of operations.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\10. Code-Tuning-and-Optimization-Homework\02.Performance of operations\obj\Debug\02.Performance of operations.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\10. Code-Tuning-and-Optimization-Homework\02.Performance of operations\obj\Debug\02.Performance of operations.pdb

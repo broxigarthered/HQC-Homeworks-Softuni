@@ -1,0 +1,6 @@
+c:\users\ники\documents\visual studio 2015\Projects\15. SOLID-Principles-in-Software-Design-Homework\Logger\bin\Debug\Logger.exe.config
+c:\users\ники\documents\visual studio 2015\Projects\15. SOLID-Principles-in-Software-Design-Homework\Logger\bin\Debug\Logger.exe
+c:\users\ники\documents\visual studio 2015\Projects\15. SOLID-Principles-in-Software-Design-Homework\Logger\bin\Debug\Logger.pdb
+c:\users\ники\documents\visual studio 2015\Projects\15. SOLID-Principles-in-Software-Design-Homework\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+c:\users\ники\documents\visual studio 2015\Projects\15. SOLID-Principles-in-Software-Design-Homework\Logger\obj\Debug\Logger.exe
+c:\users\ники\documents\visual studio 2015\Projects\15. SOLID-Principles-in-Software-Design-Homework\Logger\obj\Debug\Logger.pdb
