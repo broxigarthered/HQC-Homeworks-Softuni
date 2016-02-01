@@ -1,0 +1,8 @@
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\BangaloreUniversityLearningSystem\BangaloreUniversityLearningSystem-Skeleton\BULSReal\BULSTests\obj\Debug\BULSTests.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\BangaloreUniversityLearningSystem\BangaloreUniversityLearningSystem-Skeleton\BULSReal\BULSTests\bin\Debug\BULSTests.dll
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\BangaloreUniversityLearningSystem\BangaloreUniversityLearningSystem-Skeleton\BULSReal\BULSTests\bin\Debug\BULSTests.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\BangaloreUniversityLearningSystem\BangaloreUniversityLearningSystem-Skeleton\BULSReal\BULSTests\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\BangaloreUniversityLearningSystem\BangaloreUniversityLearningSystem-Skeleton\BULSReal\BULSTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\BangaloreUniversityLearningSystem\BangaloreUniversityLearningSystem-Skeleton\BULSReal\BULSTests\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\BangaloreUniversityLearningSystem\BangaloreUniversityLearningSystem-Skeleton\BULSReal\BULSTests\obj\Debug\BULSTests.dll
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\BangaloreUniversityLearningSystem\BangaloreUniversityLearningSystem-Skeleton\BULSReal\BULSTests\obj\Debug\BULSTests.pdb
