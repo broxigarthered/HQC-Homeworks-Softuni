@@ -1,0 +1,7 @@
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\booking\ChepelareBookingSystem.Tests\bin\Debug\ChepelareBookingSystem.Tests.dll
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\booking\ChepelareBookingSystem.Tests\bin\Debug\ChepelareBookingSystem.Tests.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\booking\ChepelareBookingSystem.Tests\bin\Debug\ChepelareHotelBookingSystem.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\booking\ChepelareBookingSystem.Tests\bin\Debug\ChepelareHotelBookingSystem.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\booking\ChepelareBookingSystem.Tests\obj\Debug\ChepelareBookingSystem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\booking\ChepelareBookingSystem.Tests\obj\Debug\ChepelareBookingSystem.Tests.dll
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\booking\ChepelareBookingSystem.Tests\obj\Debug\ChepelareBookingSystem.Tests.pdb

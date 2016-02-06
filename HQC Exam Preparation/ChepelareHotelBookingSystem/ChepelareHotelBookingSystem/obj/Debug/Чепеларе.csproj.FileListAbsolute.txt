@@ -1,0 +1,2 @@
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\booking\booking\bin\Debug\Чепеларе.exe.config
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\booking\booking\bin\Debug\ChepelareHotelBookingSystem.exe.config
